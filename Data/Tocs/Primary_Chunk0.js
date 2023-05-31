@@ -1,0 +1,1 @@
+define({'/content/courses/thecrossings.pdf':{i:[4],t:['TheCrossings'],b:['']},'/content/john/johnsclubsdistance.html':{i:[1],t:['Clubs\u0027 Distances'],b:['']},'/content/john/nts.html':{i:[2],t:['Note To Self'],b:['']},'___':{i:[0,3],t:['JOHN','COURSES'],b:['','']}});

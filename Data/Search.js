@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../content/homepage.html'],s:['100'],p:[['100',0]]});

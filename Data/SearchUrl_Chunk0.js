@@ -1,0 +1,1 @@
+define({"../content/homepage.html":2,"../content/john/johnsclubsdistance.html":0,"../content/john/nts.html":1,});

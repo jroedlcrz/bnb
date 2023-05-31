@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapLog Protocol="2" Description="MadCap Flare 2022 r3 Generated HTML5.fltar" Date="2023-05-30T20:07:20.0252595-07:00" Branch="master" Commit="329b2fcea9727514f853cc19bf057cc8f568bf2e">
+    <Messages>Publishing target HTML5...
+Connecting...
+From https://github.com/jroedlcrz/live
+ - [deleted]         (none)     -&gt; origin/master
+Your configuration specifies to merge with the ref 'refs/heads/master'
+from the remote, but no such ref was fetched.
+Your configuration specifies to merge with the ref 'refs/heads/master'
+from the remote, but no such ref was fetched.
+Your configuration specifies to merge with the ref 'refs/heads/master'
+from the remote, but no such ref was fetched.
+Your configuration specifies to merge with the ref 'refs/heads/master'
+from the remote, but no such ref was fetched.
+Your configuration specifies to merge with the ref 'refs/heads/master'
+from the remote, but no such ref was fetched.
+Downloading log ...
+Uploading changed files...
+Uploading Content/John/NTS.html... succeeded.
+Uploading Content/John/JohnsClubsDistance.html... succeeded.
+Uploading Content/Search.html... succeeded.
+Uploading Content/HomePage.html... succeeded.
+Uploading Index_CSH.html... succeeded.
+Uploading Index.html... succeeded.
+Uploading Index.mcwebhelp... succeeded.
+Uploading Index.js... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/SearchIcon.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/Menu.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/icon-user-white.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/icon-topic.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/icon-search.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/icon-remove.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/HeaderBackground_1.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/GeneralGreenLogo.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/FilterOutline.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/Filter.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/BNBsmall_3.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/BNBbig.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/arrow-up.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/arrow-down.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Tablet.css... succeeded.
+Uploading Skins/Fluid/Stylesheets/Styles.css... succeeded.
+Uploading Skins/Fluid/Stylesheets/Print.css... succeeded.
+Uploading Skins/Fluid/Stylesheets/Mobile.css... succeeded.
+Uploading Skins/Fluid/Stylesheets/foundation.6.2.3.css... succeeded.
+Uploading Skins/Default/Stylesheets/Images/transparent.gif... succeeded.
+Uploading Skins/Default/Stylesheets/Images/star-full.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/star-empty.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/select-skin.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/select-language.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/SearchIcon.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/printer.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/navigate-previous.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/navigate-next.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/MCSlider_loader.gif... succeeded.
+Uploading Skins/Default/Stylesheets/Images/MCSlider_controls.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/login.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/login-dialog-icon.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/loading.gif... succeeded.
+Uploading Skins/Default/Stylesheets/Images/icon-user-light-gray.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/icon-user-gray.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/highlight.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/help-control.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/FilterOutline.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/Filter.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/expand.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/edit-profile.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/collapse.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/close.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/arrow-up.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/arrow-down.png... succeeded.
+Uploading Skins/Default/Stylesheets/Components/Tablet.css... succeeded.
+Uploading Skins/Default/Stylesheets/Components/Styles.css... succeeded.
+Uploading Skins/Default/Stylesheets/Components/Print.css... succeeded.
+Uploading Skins/Default/Stylesheets/Components/Mobile.css... succeeded.
+Uploading Skins/Default/Stylesheets/Topic.micro-content.css... succeeded.
+Uploading Skins/Default/Stylesheets/Topic.css... succeeded.
+Uploading Skins/Default/Stylesheets/TextEffects.micro-content.css... succeeded.
+Uploading Skins/Default/Stylesheets/TextEffects.css... succeeded.
+Uploading Skins/Default/Stylesheets/Slideshow.css... succeeded.
+Uploading Resources/Scripts/stemmer-english.amd.min.js... succeeded.
+Uploading Resources/Scripts/require.min.js... succeeded.
+Uploading Resources/Scripts/require.config.js... succeeded.
+Uploading Resources/Scripts/purify.min.js... succeeded.
+Uploading Resources/Scripts/plugins.min.js... succeeded.
+Uploading Resources/Scripts/MadCapAll.js... succeeded.
+Uploading Resources/Scripts/jquery.min.js... succeeded.
+Uploading Resources/Scripts/foundation.6.2.3_custom.js... succeeded.
+Uploading Data/Tocs/Primary_Chunk0.js... succeeded.
+Uploading Data/Tocs/Primary.js... succeeded.
+Uploading Data/Synonyms.xml... succeeded.
+Uploading Data/Synonyms.js... succeeded.
+Uploading Data/SearchUrl_Chunk0.js... succeeded.
+Uploading Data/SearchTopic_Chunk0.js... succeeded.
+Uploading Data/SearchStem_Chunk0.js... succeeded.
+Uploading Data/SearchPhrase_Chunk0.js... succeeded.
+Uploading Data/Search.js... succeeded.
+Uploading Data/MicroContentScopes.js... succeeded.
+Uploading Data/Language.js... succeeded.
+Uploading Data/Index_Chunk0.js... succeeded.
+Uploading Data/Index.js... succeeded.
+Uploading Data/HelpSystem.xml... succeeded.
+Uploading Data/HelpSystem.js... succeeded.
+Uploading Data/Glossary_Chunk0.js... succeeded.
+Uploading Data/Glossary.js... succeeded.
+Uploading Data/Filters.js... succeeded.
+Uploading Data/Concepts.js... succeeded.
+Uploading Data/Breakpoints.js... succeeded.
+Uploading Data/Alias.xml... succeeded.
+Uploading Data/Alias.js... succeeded.
+Uploading Content/Resources/TableStyles/Basic.css... succeeded.
+Uploading Content/Resources/Stylesheets/Styles.css... succeeded.
+Uploading Content/Resources/Images/Socials/tiktok_20x20.png... succeeded.
+Uploading Content/Resources/Images/Socials/tiktok.png... succeeded.
+Uploading Content/Resources/Images/Socials/ig_20x20.png... succeeded.
+Uploading Content/Resources/Images/Socials/ig.png... succeeded.
+Uploading Content/Resources/Images/HeaderBackground.png... succeeded.
+Uploading Content/Resources/Images/BNBsmall.png... succeeded.
+Uploading Content/Resources/Images/BNBbig.png... succeeded.
+Uploading Content/Courses/TheCrossings.pdf... succeeded.
+Uploading csh.js... succeeded.
+Uploading log ...
+Checking in: HTML5.4.log.zip
+remote: Resolving deltas:   0% (0/83)        
+remote: Resolving deltas:   1% (1/83)        
+remote: Resolving deltas:   2% (2/83)        
+remote: Resolving deltas:   3% (3/83)        
+remote: Resolving deltas:   4% (4/83)        
+remote: Resolving deltas:   6% (5/83)        
+remote: Resolving deltas:   7% (6/83)        
+remote: Resolving deltas:   8% (7/83)        
+remote: Resolving deltas:   9% (8/83)        
+remote: Resolving deltas:  10% (9/83)        
+remote: Resolving deltas:  12% (10/83)        
+remote: Resolving deltas:  13% (11/83)        
+remote: Resolving deltas:  14% (12/83)        
+remote: Resolving deltas:  15% (13/83)        
+remote: Resolving deltas:  16% (14/83)        
+remote: Resolving deltas:  18% (15/83)        
+remote: Resolving deltas:  19% (16/83)        
+remote: Resolving deltas:  20% (17/83)        
+remote: Resolving deltas:  21% (18/83)        
+remote: Resolving deltas:  22% (19/83)        
+remote: Resolving deltas:  24% (20/83)        
+remote: Resolving deltas:  25% (21/83)        
+remote: Resolving deltas:  26% (22/83)        
+remote: Resolving deltas:  27% (23/83)        
+remote: Resolving deltas:  28% (24/83)        
+remote: Resolving deltas:  30% (25/83)        
+remote: Resolving deltas:  31% (26/83)        
+remote: Resolving deltas:  32% (27/83)        
+remote: Resolving deltas:  33% (28/83)        
+remote: Resolving deltas:  34% (29/83)        
+remote: Resolving deltas:  36% (30/83)        
+remote: Resolving deltas:  37% (31/83)        
+remote: Resolving deltas:  38% (32/83)        
+remote: Resolving deltas:  39% (33/83)        
+remote: Resolving deltas:  40% (34/83)        
+remote: Resolving deltas:  42% (35/83)        
+remote: Resolving deltas:  43% (36/83)        
+remote: Resolving deltas:  44% (37/83)        
+remote: Resolving deltas:  45% (38/83)        
+remote: Resolving deltas:  46% (39/83)        
+remote: Resolving deltas:  48% (40/83)        
+remote: Resolving deltas:  49% (41/83)        
+remote: Resolving deltas:  50% (42/83)        
+remote: Resolving deltas:  51% (43/83)        
+remote: Resolving deltas:  53% (44/83)        
+remote: Resolving deltas:  54% (45/83)        
+remote: Resolving deltas:  55% (46/83)        
+remote: Resolving deltas:  56% (47/83)        
+remote: Resolving deltas:  57% (48/83)        
+remote: Resolving deltas:  59% (49/83)        
+remote: Resolving deltas:  60% (50/83)        
+remote: Resolving deltas:  61% (51/83)        
+remote: Resolving deltas:  62% (52/83)        
+remote: Resolving deltas:  63% (53/83)        
+remote: Resolving deltas:  65% (54/83)        
+remote: Resolving deltas:  66% (55/83)        
+remote: Resolving deltas:  67% (56/83)        
+remote: Resolving deltas:  68% (57/83)        
+remote: Resolving deltas:  69% (58/83)        
+remote: Resolving deltas:  71% (59/83)        
+remote: Resolving deltas:  72% (60/83)        
+remote: Resolving deltas:  73% (61/83)        
+remote: Resolving deltas:  74% (62/83)        
+remote: Resolving deltas:  75% (63/83)        
+remote: Resolving deltas:  77% (64/83)        
+remote: Resolving deltas:  78% (65/83)        
+remote: Resolving deltas:  79% (66/83)        
+remote: Resolving deltas:  80% (67/83)        
+remote: Resolving deltas:  81% (68/83)        
+remote: Resolving deltas:  83% (69/83)        
+remote: Resolving deltas:  84% (70/83)        
+remote: Resolving deltas:  85% (71/83)        
+remote: Resolving deltas:  86% (72/83)        
+remote: Resolving deltas:  87% (73/83)        
+remote: Resolving deltas:  89% (74/83)        
+remote: Resolving deltas:  90% (75/83)        
+remote: Resolving deltas:  91% (76/83)        
+remote: Resolving deltas:  92% (77/83)        
+remote: Resolving deltas:  93% (78/83)        
+remote: Resolving deltas:  95% (79/83)        
+remote: Resolving deltas:  96% (80/83)        
+remote: Resolving deltas:  97% (81/83)        
+remote: Resolving deltas:  98% (82/83)        
+remote: Resolving deltas: 100% (83/83)        
+remote: Resolving deltas: 100% (83/83), done.        
+To https://github.com/jroedlcrz/live.git
+ * [new branch]      master -&gt; master
+Publish complete.
+Saving log to "C:\Users\Sarky\Documents\My Projects\Golf\Output\Sarky\HTML5\HTML5.mclog"
+</Messages>
+    <Warnings />
+    <Errors />
+</MadCapLog>
