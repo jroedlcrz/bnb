@@ -433,8 +433,10 @@ a.glossaryTerm
 iframe.youtube-player_0
 {
 	display: inline-block;
-	width: 100%;
 	height: auto;
+	width: auto;
+	max-width: 100%;
+	max-height: auto;
 }
 
 .MCWebHelpFramesetLink a

@@ -433,8 +433,10 @@
 .micro-response1518867897 iframe.youtube-player_0
 {
 	display: inline-block;
-	width: 100%;
 	height: auto;
+	width: auto;
+	max-width: 100%;
+	max-height: auto;
 }
 
 .micro-response1518867897 .MCWebHelpFramesetLink a
