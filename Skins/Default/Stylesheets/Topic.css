@@ -430,6 +430,13 @@ a.glossaryTerm
 	opacity: 0;
 }
 
+iframe.youtube-player_0
+{
+	display: inline-block;
+	width: 100%;
+	height: auto;
+}
+
 .MCWebHelpFramesetLink a
 {
 	
