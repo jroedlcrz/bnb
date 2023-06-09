@@ -265,3 +265,20 @@ img.hole
 	text-align: center;
 }
 
+ul.List
+{
+	
+}
+
+ul.List > li > ul
+{
+	list-style-type: disc;
+	list-style-image: none;
+}
+
+ul.List > li > ul > li::marker
+{
+	font-family: ;
+	content: '•';
+}
+
