@@ -154,6 +154,91 @@ p.body-p
 		height: auto;
 		width: 20px;
 	}
+
+	body
+	{
+		width: 0px;
+	}
+
+	body
+	{
+		width: 0px;
+	}
+
+	body
+	{
+		width: 100%;
+	}
+
+	div.holelayout
+	{
+		width: 0px;
+	}
+
+	div.holelayout
+	{
+		width: 0px;
+	}
+
+	div.holelayout
+	{
+		width: 100%;
+	}
+
+	MadCap|dropDownBody
+	{
+		width: 0px;
+	}
+
+	MadCap|dropDownBody
+	{
+		width: 0px;
+	}
+
+	MadCap|dropDownBody
+	{
+		width: 100%;
+	}
+
+	MadCap|dropDownBody
+	{
+		height: 0px;
+	}
+
+	MadCap|dropDownBody
+	{
+		height: 0px;
+	}
+
+	MadCap|dropDownBody
+	{
+		height: auto;
+	}
+
+	div.holelayout
+	{
+		height: 0px;
+	}
+
+	div.holelayout
+	{
+		height: 0px;
+	}
+
+	div.holelayout
+	{
+		height: auto;
+	}
+
+	.MCDropDownBody
+	{
+		overflow: inherit;
+	}
+
+	img.hole
+	{
+		width: 100%;
+	}
 }
 
 img.socials
@@ -169,11 +254,14 @@ MadCap|dropDownHead.dropdownhead
 	font-family: 'Dubai Medium';
 }
 
-@media only screen and (max-width: 767px)
+div.holelayout
 {
-	.MCDropDownBody
-	{
-		overflow: inherit;
-	}
+	text-align: center;
+}
+
+img.hole
+{
+	border: none;
+	text-align: center;
 }
 
