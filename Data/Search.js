@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../content/ash/ash clubs distances.html'],s:['100'],p:[['100',0]]});
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../content/ash/ash clubs distances.html'],s:['+2'],p:[['+2',0]]});
