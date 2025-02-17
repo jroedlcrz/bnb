@@ -101,6 +101,12 @@ img	/*Setting max-width: 100%; property makes images always fit the width of the
 	max-width: 100%;
 }
 
+img.heropics
+{
+	width: 95%;
+	height: auto;
+}
+
 img.thumbnail
 {
 	mc-thumbnail: popup;
