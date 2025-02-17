@@ -1,1 +1,1 @@
-define({"../contacts.html":1,"../gallery.html":0,});
+define({"../content/contacts.htm":1,"../content/gallery.htm":0,});
