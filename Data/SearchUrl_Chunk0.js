@@ -1,1 +1,1 @@
-define({"../content/ash/ash clubs distances.html":3,"../content/ash/nts.html":4,"../content/beersnbogeysmasters/the masters.html":0,"../content/courses/enagic/courselayout.html":7,"../content/homepage.html":8,"../content/john/johnsclubsdistance.html":1,"../content/john/nts.html":2,"../content/ty/nts.html":6,"../content/ty/ty clubs distances.html":5,});
+define({"../contacts.htm":1,"../gallery.htm":0,});

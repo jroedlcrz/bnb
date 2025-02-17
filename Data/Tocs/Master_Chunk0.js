@@ -1,0 +1,1 @@
+define({'/contacts.htm':{i:[2],t:['Contacts'],b:['']},'/gallery.htm':{i:[1],t:['Gallery'],b:['']},'/home.htm':{i:[0],t:['Welcome to JD Vizion'],b:['']}});

@@ -1,19 +1,20 @@
 /*<meta />*/
 
-@media only screen and (max-width: 767px)
+@media only screen and (max-width: 0px)
 {
 	nav.title-bar
 	{
-		background: transparent url('Images/HeaderBackground_1.png') no-repeat center top;
-		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/HeaderBackground_1.png') no-repeat center top;
+		background-position: center top;
+		background-repeat: no-repeat;
+		background-color: transparent;
 	}
 
 	.title-bar-layout a.logo
 	{
-		width: 146px;
-		height: 51px;
-		background: transparent url('Images/BNBsmall_3.png') no-repeat center center;
-		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/BNBsmall_3.png') no-repeat center center;
+		width: 134px;
+		height: 120px;
+		background: transparent url('Images/IMG_2549.PNG') no-repeat center center;
+		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/IMG_2549.PNG') no-repeat center center;
 	}
 
 	.search-bar .search-submit
@@ -296,7 +297,7 @@
 
 	.off-canvas-wrapper-inner nav.title-bar .outer-row
 	{
-		max-width: 100%;
+		
 	}
 
 	#knowledge-panel
@@ -408,19 +409,19 @@
 		background: -webkit-linear-gradient(top, transparent 0%, #ffffff 100%);
 		background: -o-linear-gradient(top, transparent 0%,#ffffff 100%);
 		background: -ms-linear-gradient(top, transparent 0%,#ffffff 100%);
-		background: linear-gradient(top, transparent 0%,#ffffff 100%);
+		background: linear-gradient(transparent 0%,#ffffff 100%);
 		-pie-background: linear-gradient(transparent, #ffffff);
 	}
 
 	.title-bar-layout .logo-wrapper
 	{
-		min-height: 51px;
-		flex-basis: auto;
+		min-height: 120px;
+		justify-content: flex-start;
 	}
 
 	.menu-icon-container
 	{
-		min-height: 51px;
+		min-height: 120px;
 	}
 
 	.off-canvas-wrapper-inner .main-section > .outer-row
@@ -430,12 +431,12 @@
 
 	.main-section > .outer-row
 	{
-		
+		max-width: 100%;
 	}
 
 	.off-canvas-wrapper-inner .outer-row
 	{
-		
+		max-width: 100%;
 	}
 
 	.micro-content-proxy.faq .micro-content-drop-down-button
@@ -541,7 +542,7 @@
 		background: -webkit-linear-gradient(top, transparent 0%, #ffffff 100%);
 		background: -o-linear-gradient(top, transparent 0%,#ffffff 100%);
 		background: -ms-linear-gradient(top, transparent 0%,#ffffff 100%);
-		background: linear-gradient(top, transparent 0%,#ffffff 100%);
+		background: linear-gradient(transparent 0%,#ffffff 100%);
 		-pie-background: linear-gradient(transparent, #ffffff);
 	}
 
@@ -648,7 +649,7 @@
 		background: -webkit-linear-gradient(top, transparent 0%, #ffffff 100%);
 		background: -o-linear-gradient(top, transparent 0%,#ffffff 100%);
 		background: -ms-linear-gradient(top, transparent 0%,#ffffff 100%);
-		background: linear-gradient(top, transparent 0%,#ffffff 100%);
+		background: linear-gradient(transparent 0%,#ffffff 100%);
 		-pie-background: linear-gradient(transparent, #ffffff);
 	}
 
@@ -755,18 +756,18 @@
 		background: -webkit-linear-gradient(top, transparent 0%, #ffffff 100%);
 		background: -o-linear-gradient(top, transparent 0%,#ffffff 100%);
 		background: -ms-linear-gradient(top, transparent 0%,#ffffff 100%);
-		background: linear-gradient(top, transparent 0%,#ffffff 100%);
+		background: linear-gradient(transparent 0%,#ffffff 100%);
 		-pie-background: linear-gradient(transparent, #ffffff);
 	}
 
 	.off-canvas
 	{
-		background-color: #333333;
+		background-color: #3f4652;
 	}
 
 	.off-canvas ul ul
 	{
-		background-color: #333333;
+		background-color: #3f4652;
 	}
 
 	ul.off-canvas-list li a
@@ -826,8 +827,8 @@
 
 	.title-bar .menu-icon span
 	{
-		background: transparent url('Images/Menu.png') no-repeat center center;
-		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/Menu.png') no-repeat center center;
+		background: transparent url('Images/HamburgerIcon-white.png') no-repeat center center;
+		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/HamburgerIcon-white.png') no-repeat center center;
 	}
 
 	nav.title-bar .menu-icon
@@ -1127,7 +1128,7 @@
 		background: -webkit-linear-gradient(top, transparent 0%, #ffffff 100%);
 		background: -o-linear-gradient(top, transparent 0%,#ffffff 100%);
 		background: -ms-linear-gradient(top, transparent 0%,#ffffff 100%);
-		background: linear-gradient(top, transparent 0%,#ffffff 100%);
+		background: linear-gradient(transparent 0%,#ffffff 100%);
 		-pie-background: linear-gradient(transparent, #ffffff);
 	}
 
@@ -1204,13 +1205,13 @@
 	.search-bar.search-bar-container .search-submit
 	{
 		background-repeat: no-repeat;
-		background: #bed230 url('Images/SearchIcon.png') no-repeat center center;
+		background-color: #ecf0f1;
 	}
 
 	.search-bar.search-bar-container .search-submit:hover
 	{
 		background-repeat: no-repeat;
-		background-color: #bed230;
+		background-color: #ecf0f1;
 	}
 
 	.phrase-suggest

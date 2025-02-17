@@ -19,9 +19,11 @@
 
 	/* Header Style */
 
-	.title-bar-container
+	nav.title-bar
 	{
 		display: none;
+		background-repeat: no-repeat;
+		background-color: transparent;
 	}
 
 	/* Side Navigation Menu styles */
@@ -284,12 +286,6 @@
 		
 	}
 
-	nav.title-bar
-	{
-		background: transparent url('Images/HeaderBackground_1.png') no-repeat center top;
-		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/HeaderBackground_1.png') no-repeat center top;
-	}
-
 	.off-canvas-wrapper-inner nav.title-bar .outer-row
 	{
 		
@@ -403,7 +399,7 @@
 		background: -webkit-linear-gradient(top, transparent 0%, #ffffff 100%);
 		background: -o-linear-gradient(top, transparent 0%,#ffffff 100%);
 		background: -ms-linear-gradient(top, transparent 0%,#ffffff 100%);
-		background: linear-gradient(top, transparent 0%,#ffffff 100%);
+		background: linear-gradient(transparent 0%,#ffffff 100%);
 		-pie-background: linear-gradient(transparent, #ffffff);
 	}
 
@@ -414,8 +410,8 @@
 
 	.title-bar-layout a.logo
 	{
-		background: transparent url('Images/BNBsmall_3.png') no-repeat center center;
-		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/BNBsmall_3.png') no-repeat center center;
+		background: transparent url('Images/IMG_2549.PNG') no-repeat center center;
+		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/IMG_2549.PNG') no-repeat center center;
 	}
 
 	.main-section > .outer-row
@@ -531,7 +527,7 @@
 		background: -webkit-linear-gradient(top, transparent 0%, #ffffff 100%);
 		background: -o-linear-gradient(top, transparent 0%,#ffffff 100%);
 		background: -ms-linear-gradient(top, transparent 0%,#ffffff 100%);
-		background: linear-gradient(top, transparent 0%,#ffffff 100%);
+		background: linear-gradient(transparent 0%,#ffffff 100%);
 		-pie-background: linear-gradient(transparent, #ffffff);
 	}
 
@@ -638,7 +634,7 @@
 		background: -webkit-linear-gradient(top, transparent 0%, #ffffff 100%);
 		background: -o-linear-gradient(top, transparent 0%,#ffffff 100%);
 		background: -ms-linear-gradient(top, transparent 0%,#ffffff 100%);
-		background: linear-gradient(top, transparent 0%,#ffffff 100%);
+		background: linear-gradient(transparent 0%,#ffffff 100%);
 		-pie-background: linear-gradient(transparent, #ffffff);
 	}
 
@@ -745,7 +741,7 @@
 		background: -webkit-linear-gradient(top, transparent 0%, #ffffff 100%);
 		background: -o-linear-gradient(top, transparent 0%,#ffffff 100%);
 		background: -ms-linear-gradient(top, transparent 0%,#ffffff 100%);
-		background: linear-gradient(top, transparent 0%,#ffffff 100%);
+		background: linear-gradient(transparent 0%,#ffffff 100%);
 		-pie-background: linear-gradient(transparent, #ffffff);
 	}
 
@@ -1031,7 +1027,7 @@
 		background: -webkit-linear-gradient(top, transparent 0%, #ffffff 100%);
 		background: -o-linear-gradient(top, transparent 0%,#ffffff 100%);
 		background: -ms-linear-gradient(top, transparent 0%,#ffffff 100%);
-		background: linear-gradient(top, transparent 0%,#ffffff 100%);
+		background: linear-gradient(transparent 0%,#ffffff 100%);
 		-pie-background: linear-gradient(transparent, #ffffff);
 	}
 
@@ -1108,13 +1104,13 @@
 	.search-bar.search-bar-container .search-submit
 	{
 		background-repeat: no-repeat;
-		background: #bed230 url('Images/SearchIcon.png') no-repeat center center;
+		background-color: #ecf0f1;
 	}
 
 	.search-bar.search-bar-container .search-submit:hover
 	{
 		background-repeat: no-repeat;
-		background-color: #bed230;
+		background-color: #ecf0f1;
 	}
 
 	.phrase-suggest

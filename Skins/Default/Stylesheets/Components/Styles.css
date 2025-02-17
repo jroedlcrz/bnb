@@ -170,6 +170,11 @@ ul.menu li > a
         font-weight: bold;
     }
 
+li.emptyMenuItem
+{
+    list-style: none;
+}
+
 /* Search Results Styles */
 #results-heading
 {
@@ -739,7 +744,7 @@ html[dir='rtl'] #search-results-flex
     background: -webkit-linear-gradient(top, transparent 0%, #ffffff 100%);
     background: -o-linear-gradient(top, transparent 0%,#ffffff 100%);
     background: -ms-linear-gradient(top, transparent 0%,#ffffff 100%);
-    background: linear-gradient(top, transparent 0%,#ffffff 100%);
+    background: linear-gradient(transparent 0%,#ffffff 100%);
     -pie-background: linear-gradient(transparent, #ffffff);
 }
 
@@ -778,7 +783,7 @@ html[dir='rtl'] #search-results-flex
     background: -webkit-linear-gradient(top, transparent 0%, #ffffff 100%);
     background: -o-linear-gradient(top, transparent 0%,#ffffff 100%);
     background: -ms-linear-gradient(top, transparent 0%,#ffffff 100%);
-    background: linear-gradient(top, transparent 0%,#ffffff 100%);
+    background: linear-gradient(transparent 0%,#ffffff 100%);
     -pie-background: linear-gradient(transparent, #ffffff);
 }
 
@@ -813,6 +818,6 @@ html[dir='rtl'] #search-results-flex
     background: -webkit-linear-gradient(top, transparent 0%, #ffffff 100%);
     background: -o-linear-gradient(top, transparent 0%,#ffffff 100%);
     background: -ms-linear-gradient(top, transparent 0%,#ffffff 100%);
-    background: linear-gradient(top, transparent 0%,#ffffff 100%);
+    background: linear-gradient(transparent 0%,#ffffff 100%);
     -pie-background: linear-gradient(transparent, #ffffff);
 }
