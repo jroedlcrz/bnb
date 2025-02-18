@@ -21,7 +21,7 @@
         </script>
         <script type="text/javascript">/*<![CDATA[*/function authenticate() {
 			gapi.auth2.init({
-			client_id: 'YOUR_CLIENT_ID.apps.googleusercontent.com',
+			client_id: '425348725256-m62pdrle4oiqoaqnuig4rcnh956t0lvc.apps.googleusercontent.com',
 			scope: 'https://www.googleapis.com/auth/drive.readonly',
 			}).then(function () {
 			gapi.auth2.getAuthInstance().signIn().then(loadDrive);
@@ -34,7 +34,7 @@
 
 			function listFiles() {
 			gapi.client.drive.files.list({
-			'q': "'YOUR_FOLDER_ID' in parents",
+			'q': "'1PQAwgvoBIHruIR0xPXySwtYW1SRp_Kf2' in parents",
 			'fields': "nextPageToken, files(id, name)",
 			}).then(function(response) {
 			const files = response.result.files;
