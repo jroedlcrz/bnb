@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../content/contacts.htm'],s:['and'],p:[['and',0]]});
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../content/contacts.htm'],s:['and'],p:[['and',1]]});

@@ -486,7 +486,7 @@
 
 	.micro-content-proxy.faq
 	{
-		
+		display: none;
 	}
 
 	.micro-content-proxy.faq .micro-content-phrase span
@@ -613,7 +613,7 @@
 
 	.micro-content-proxy.knowledge
 	{
-		
+		display: none;
 	}
 
 	.micro-content-proxy.knowledge .micro-content-phrase span
@@ -740,7 +740,7 @@
 
 	.micro-content-proxy.promotion
 	{
-		
+		display: none;
 	}
 
 	.micro-content-proxy.promotion .micro-content-phrase span
