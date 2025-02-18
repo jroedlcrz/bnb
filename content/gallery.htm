@@ -19,36 +19,43 @@
         <link href="resources/stylesheets/mainstyles.css" rel="stylesheet" type="text/css" />
         <script src="https://apis.google.com/js/api.js">
         </script>
-        <script type="text/javascript">/*<![CDATA[*/function authenticate() {
-			gapi.auth2.init({
-			client_id: '425348725256-m62pdrle4oiqoaqnuig4rcnh956t0lvc.apps.googleusercontent.com',
-			scope: 'https://www.googleapis.com/auth/drive.readonly',
+        <script type="text/javascript">/*<![CDATA[*/function handleClientLoad() {
+			gapi.load('client:auth2', initClient);
+			}
+
+			function initClient() {
+			gapi.client.init({
+			'clientId': '425348725256-m62pdrle4oiqoaqnuig4rcnh956t0lvc.apps.googleusercontent.com',
+			'scope': 'https://www.googleapis.com/auth/drive.readonly',
 			}).then(function () {
-			gapi.auth2.getAuthInstance().signIn().then(loadDrive);
+			// Make sure the user is signed in
+			if (gapi.auth2.getAuthInstance().isSignedIn.get()) {
+			loadDriveFiles(); // Proceed with your API call
+			} else {
+			gapi.auth2.getAuthInstance().signIn().then(loadDriveFiles);
+			}
 			});
 			}
 
-			function loadDrive() {
-			gapi.client.load('drive', 'v3', listFiles);
-			}
-
-			function listFiles() {
+			function loadDriveFiles() {
 			gapi.client.drive.files.list({
 			'q': "'1PQAwgvoBIHruIR0xPXySwtYW1SRp_Kf2' in parents",
-			'fields': "nextPageToken, files(id, name)",
+			'fields': 'nextPageToken, files(id, name)',
 			}).then(function(response) {
+			console.log(response);
 			const files = response.result.files;
 			if (files && files.length > 0) {
 			files.forEach(function(file) {
-			
-			console.log(file.name + ' (' + file.id + ')');
+			console.log(file.name);  // Display file names in the console
 			});
 			} else {
 			console.log('No files found.');
 			}
 			});
 			}
-		/*]]>*/</script>
+
+			// Load the API client and authenticate on page load
+		handleClientLoad();/*]]>*/</script>
         <script src="../Resources/Scripts/jquery.min.js" type="text/javascript">
         </script>
         <script src="../Resources/Scripts/purify.min.js" type="text/javascript" defer="defer">
@@ -146,7 +153,7 @@
                                             <div class="homebody">
                                                 <div role="main" id="mc-main-content">
                                                     <h1 class="others">Gallery</h1>
-                                                    <div class="iframe"><iframe src="https://drive.google.com/drive/u/0/folders/1PQAwgvoBIHruIR0xPXySwtYW1SRp_Kf2" width="100%" height="90%"></iframe>
+                                                    <div class="iframe"><iframe src="https://drive.google.com/drive/folders/1PQAwgvoBIHruIR0xPXySwtYW1SRp_Kf2" width="100%" height="90%"></iframe>
                                                     </div>
                                                 </div>
                                             </div>
