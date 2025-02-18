@@ -1,1 +1,0 @@
-define({"and":{"and":[1],},"contact":{"contacts":[1],},"content":{"content":[1],},"delet":{"delete":[1],},"galleri":{"gallery":[0],},"it":{"it":[1],},"own":{"own":[1],},"replac":{"replace":[1],},"text":{"text":[1],},"this":{"this":[1],},"with":{"with":[1],},"your":{"your":[1],},});
